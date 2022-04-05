@@ -137,6 +137,14 @@ p{
     margin-left: 32%;
 }
 
+/* .lorem2{
+    margin: 0;
+    display: block;
+    width: 1000px;
+    text-align: center;
+    margin-left: 25%;
+} */
+
 .message{
     display: block;
     border-radius: 5px;
